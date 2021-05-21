@@ -1,0 +1,22 @@
+.CheckBox {
+    display: none !important;
+}
+.TreeNode .TreeNodeToolBar {
+    display: none;
+}
+    
+.TreeNode{
+    display: flex;
+}
+
+.FolderTree {
+    zoom: 150%;
+}
+
+.selected {
+    background-color: black;
+}
+
+.MuiTreeItem-root{
+    white-Space: nowrap;
+}

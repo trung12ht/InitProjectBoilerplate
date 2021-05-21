@@ -1,0 +1,60 @@
+{
+  "name": "init-project",
+  "version": "1.1.0",
+  "private": true,
+  "dependencies": {
+    "@coreui/chartjs": "^2.0.0",
+    "@coreui/coreui": "^3.4.0",
+    "@coreui/icons": "^2.0.0-rc.0",
+    "@coreui/icons-react": "^1.0.2",
+    "@coreui/react": "^3.4.0",
+    "@coreui/react-chartjs": "^1.0.1",
+    "@coreui/utils": "^1.3.1",
+    "@material-ui/core": "latest",
+    "@material-ui/icons": "latest",
+    "@material-ui/lab": "latest",
+    "@wojtekmaj/enzyme-adapter-react-17": "^0.3.2",
+    "axios": "^0.21.1",
+    "bootstrap": "^4.3.1",
+    "classnames": "^2.2.6",
+    "core-js": "^3.8.1",
+    "enzyme": "^3.11.0",
+    "node-sass": "^4.14.1",
+    "prop-types": "^15.7.2",
+    "react": "^17.0.1",
+    "react-app-polyfill": "^2.0.0",
+    "react-bootstrap": "^1.5.0",
+    "react-bootstrap-treeview": "^0.1.0",
+    "react-dom": "^17.0.1",
+    "react-file-drop": "^3.1.2",
+    "react-folder-tree": "^4.0.8",
+    "react-icons": "^4.2.0",
+    "react-markdown": "^5.0.3",
+    "react-rating-stars-component": "^2.2.0",
+    "react-redux": "^7.0.2",
+    "react-responsive": "^6.1.2",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "^4.0.3",
+    "react-slick": "^0.28.1",
+    "react-syntax-highlighter": "^15.4.3",
+    "react-toastify": "^7.0.3",
+    "redux": "^4.0.1",
+    "redux-thunk": "^2.3.0",
+    "slick-carousel": "^1.8.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
